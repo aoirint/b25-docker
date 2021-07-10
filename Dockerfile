@@ -8,6 +8,7 @@ RUN apt-get update \
         automake \
         cmake \
         pcscd \
+        pcsc-tools \
         libpcsclite-dev
 
 # Install libarib25
